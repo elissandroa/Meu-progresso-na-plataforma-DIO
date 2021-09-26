@@ -1,0 +1,17 @@
+Vetores (Array Uni-dimensional) 
+
+
+Matrizes (Array Multi-dimensional)
+Registro
+Lista
+Pilha
+LIFOS OU UEPS - last in first out,  último que entra é o primeiro que sai
+
+FIFO OU PEPS - first in first out, primeiro que entra é o último que sai
+Fila
+Árvore
+Tabela Hash
+Grafos
+
+Estrutura de dados 
+Arvore - Estrutura organizada de forma que os elementos são colocados de forma hirerárquica 
