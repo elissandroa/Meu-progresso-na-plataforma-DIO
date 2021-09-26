@@ -1,0 +1,6 @@
+Neste curso foi explicado como utilizar a plataforma para resolver os desafios, a forma de realizar os testes antes de entregar o desafio.
+
+Foi passado os Recursos
+BufferedReader e StringTokenizer
+
+para pegar uma entrada de dados com mais de um parametro separado por espaco.
