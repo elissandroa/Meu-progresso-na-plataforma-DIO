@@ -1,0 +1,17 @@
+GIT SHa1 - Algoritmo de codificação - Gera um conjunto de caracteres de 40 dígitos, unicos para identificação.
+
+(Aquivos)(Bolhas)Blobs - é um objeto que contèm o conteúdo + meta dados ("Arquivos"), possui sha1
+
+(Diretorios)(Arvores)Trees - Contém metadados e blobs - aponta para um blob - guarda também o nome do arquivo, pode apontar para blobs ou para outras arvores, possui sha1
+
+Commits - aponta para uma arvore, par o último commit antes dele, aponta para um autor, também possui sha1
+
+ssh-keygen -t ed25519 -C (email usado no github)
+eval $(ssh-agent -s)
+ssh-add id_ed25519
+
+para clonar um repositório tem que usar o endereço ssh do git
+
+primeira vez que usar o git
+git config --global user.email "usuario@emial.com.br"
+git config --global user.name elissandroa
