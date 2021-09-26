@@ -1,0 +1,1 @@
+Neste curso, foram passado conceitos básicos e muito importantes a respeito de lógica computacional, utilizando pseudocódigo, vários conceitos foram passados utilizando o portugol.
