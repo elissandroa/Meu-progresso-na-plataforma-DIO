@@ -52,6 +52,7 @@
 #### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 * Sendo cursado no momento
 * Carga horária de 1 horas
-* Certificado consquistado ⏰
+* Certificado consquistado 👉 https://certificates.digitalinnovation.one/606FF346
+
 
 
