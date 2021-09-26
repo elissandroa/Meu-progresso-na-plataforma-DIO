@@ -1,0 +1,7 @@
+Neste curso aprendi sobre o papel do Product Owner, Team Dev, SCRUM Master.
+
+Que as reuniões diárias devem ser feitas em pé e ter curta duração, nela são feitas perguntas, como o que foi feito?, o que será feito ? e se há algum empedimento.
+
+Aprendi sobre o conceito de Sprints, estorias e a comparação do metódo ágil com o método em cascata.
+
+Aprendi que no SCRUM o cliente deve estar sempre presente dando feed back, que o projeto pode sofrer mudanças constantes, e que é necessário trabalhar em equipe de forma transparente
